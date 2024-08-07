@@ -10,5 +10,5 @@ Experienced Angular Developer with over 6 years of experience in building dynami
 - **Soft Skills:** Problem-solving, Communication, Team Collaboration, Agile Methodologies
 
 ## Contact
-- **LinkedIn:** [https://linkedin.com/in/johndoe](https://www.linkedin.com/in/luisurruela/)
+- **LinkedIn:** [https://linkedin.com/in/luisurruela](https://www.linkedin.com/in/luisurruela/)
 - **Email:** luis.urruela@neweratech.com
