@@ -1,4 +1,4 @@
-# Hi, I am Luis U - Angular Developer
+# Hi, I am Luis U - Angular/Ionic Developer 👨‍💻
 
 ## Summary
 Experienced Angular Developer with over 6 years of experience in building dynamic and responsive web applications. Proficient in JavaScript, TypeScript, HTML, and CSS, with a strong background in developing scalable, high-performance front-end architectures. Additionally, experienced in Web Design and UX, creating intuitive and user-friendly interfaces. Passionate about creating clean and efficient code, optimizing user experiences, and staying current with the latest web development trends and technologies.
